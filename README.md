@@ -1,7 +1,6 @@
 # Take Home React Assessment
 
-This take home assessment is made with React and displays JSON data using AJAX/asynchronous JavaScript. This website is not mobile responsive, and should be only
-viewed via desktop. 
+This take home assessment is made with React and displays JSON data using AJAX/asynchronous JavaScript. The website renders data from API on the the page.
 
 ## Technology used
 
